@@ -1,24 +1,19 @@
-
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
+<p align="center"><img src="./aulikelion_logo.png" width="150" /></p>
 
 
-Welcome to your Rails project on Cloud9 IDE!
+# Match-meeting
+팀플의 세계
 
-To get started, just do the following:
+> 학생들의 팀프로젝트 모임을 활성화함은 물론, 학부 학생들은 학교 외부의 카페 등의 유휴 공간을 제공하여 프로젝트를 원활하게 수행할 수 있도록 지원합니다.
 
-1. Run the project with the "Run Project" button in the menu bar on top of the IDE.
-2. Preview your new app by clicking on the URL that appears in the Run panel below (https://match-meeting-bee0005.c9users.io/).
+![Group 생성](./screenshots/group_creation.png)
 
-Happy coding!
-The Cloud9 IDE team
+![Group List](./screenshots/groups.png)
 
+![Space List](./screenshots/project_space.png)
 
-## Support & Documentation
+![mypage](./screenshots/mypage.png)
 
-Visit http://docs.c9.io for support, or to learn more about using Cloud9 IDE. 
-To watch some training videos, visit http://www.youtube.com/user/c9ide
+---
+
+멋쟁이사자처럼 4기 활동 중 프로젝트 형식으로 기획, 개발되었습니다.
